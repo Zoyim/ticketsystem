@@ -42,7 +42,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 ## Lancement depuis un IDE
 
-1. **Rapatrier le projet** : Clonez le projet depuis le dépôt `https://gitlab.indyli-services.com/training-project-group/spring-daos.git`
+1. **Rapatrier le projet** : Clonez le projet depuis le dépôt `https://github.com/Zoyim/ticketsystem.git`
 
 2. **Ouvrir l'IDE** : Lancez votre environnement de développement intégré (IDE) préféré.
 
