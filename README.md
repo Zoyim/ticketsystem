@@ -161,8 +161,8 @@ Maintenant que vous avez finis de faire les tests fonctionnels non sécurisé, n
 1. Modifier la configuration de sécurité :
 
 - Modifiez `SecurityConfig.java` pour exiger l'authentification sur toutes les requêtes.
-
-```java
+	
+	```java
 		SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
 			return http.csrf(AbstractHttpConfigurer::disable).authorizeHttpRequests((request) -> request
 					.requestMatchers("/token/generateToken", "/swagger-ui/**", "/v3/api-docs/**", "/error/**").permitAll()
@@ -180,9 +180,10 @@ Maintenant que vous avez finis de faire les tests fonctionnels non sécurisé, n
 
 - Ajoutez le token JWT dans le header des requêtes suivantes :
 
-```java
+    ```java
 		Authorization: Bearer <votre_token>
-```
+    ```
+	
 - Faites des tests fonctionnels de manière sécurisé.
 
 ## Exécution des tests
