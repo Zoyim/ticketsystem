@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: af.cmr.loti.ticketsystem.business.service.test.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.329 s -- in af.cmr.loti.ticketsystem.business.service.test.UserServiceTest
