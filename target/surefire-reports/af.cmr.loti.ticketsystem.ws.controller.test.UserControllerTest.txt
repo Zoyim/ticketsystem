@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: af.cmr.loti.ticketsystem.ws.controller.test.UserControllerTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.857 s -- in af.cmr.loti.ticketsystem.ws.controller.test.UserControllerTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.835 s -- in af.cmr.loti.ticketsystem.ws.controller.test.UserControllerTest
